@@ -4,9 +4,9 @@
 This C# project is designed to automate the process of downloading images from web templates. It scrapes the specified template URLs and downloads all available images for local storage, aiding developers in managing and backing up template assets more efficiently.
 
 
-![Alt text](/path/to/image.jpg)
+![Alt text](/images/app-image.png)
 ![Template Image Downloader UI](images/template-downloader-ui.jpg)
-![Template Image Downloader UI](https://example.com/path/to/image.jpg)
+
 
 
 ![Project Screenshot](/images/my-image.png?raw=true "downloader...")
