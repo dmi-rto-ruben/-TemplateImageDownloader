@@ -1,0 +1,16 @@
+C:\Users\DMI\source\repos\TemplateDownloader\bin\Debug\net8.0-windows\TemplateDownloader.exe
+C:\Users\DMI\source\repos\TemplateDownloader\bin\Debug\net8.0-windows\TemplateDownloader.deps.json
+C:\Users\DMI\source\repos\TemplateDownloader\bin\Debug\net8.0-windows\TemplateDownloader.runtimeconfig.json
+C:\Users\DMI\source\repos\TemplateDownloader\bin\Debug\net8.0-windows\TemplateDownloader.dll
+C:\Users\DMI\source\repos\TemplateDownloader\bin\Debug\net8.0-windows\TemplateDownloader.pdb
+C:\Users\DMI\source\repos\TemplateDownloader\obj\Debug\net8.0-windows\TemplateDownloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DMI\source\repos\TemplateDownloader\obj\Debug\net8.0-windows\TemplateDownloader.AssemblyInfoInputs.cache
+C:\Users\DMI\source\repos\TemplateDownloader\obj\Debug\net8.0-windows\TemplateDownloader.AssemblyInfo.cs
+C:\Users\DMI\source\repos\TemplateDownloader\obj\Debug\net8.0-windows\TemplateDownloader.csproj.CoreCompileInputs.cache
+C:\Users\DMI\source\repos\TemplateDownloader\obj\Debug\net8.0-windows\TemplateDownloader.dll
+C:\Users\DMI\source\repos\TemplateDownloader\obj\Debug\net8.0-windows\refint\TemplateDownloader.dll
+C:\Users\DMI\source\repos\TemplateDownloader\obj\Debug\net8.0-windows\TemplateDownloader.pdb
+C:\Users\DMI\source\repos\TemplateDownloader\obj\Debug\net8.0-windows\TemplateDownloader.genruntimeconfig.cache
+C:\Users\DMI\source\repos\TemplateDownloader\obj\Debug\net8.0-windows\ref\TemplateDownloader.dll
+C:\Users\DMI\source\repos\TemplateDownloader\obj\Debug\net8.0-windows\TemplateDownloader.Form1.resources
+C:\Users\DMI\source\repos\TemplateDownloader\obj\Debug\net8.0-windows\TemplateDownloader.csproj.GenerateResource.cache
