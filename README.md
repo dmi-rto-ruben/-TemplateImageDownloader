@@ -3,6 +3,12 @@
 ## Description
 This C# project is designed to automate the process of downloading images from web templates. It scrapes the specified template URLs and downloads all available images for local storage, aiding developers in managing and backing up template assets more efficiently.
 
+
+![Alt text](/path/to/image.jpg)
+![Template Image Downloader UI](images/template-downloader-ui.jpg)
+![Template Image Downloader UI](https://example.com/path/to/image.jpg)
+
+
 ![Project Screenshot](/images/my-image.png?raw=true "downloader...")
 
 ## Getting Started
@@ -20,23 +26,3 @@ This C# project is designed to automate the process of downloading images from w
 ### Executing program
 - Build the solution in Visual Studio.
 - Run the program.
-- A GUI will appear where you can input the URL of the template whose images you wish to download.
-- Follow the on-screen instructions to proceed with the downloading of images.
-
-## Usage
-The program is designed to be user-friendly:
-1. Enter the URL of the template in the provided text field.
-2. Click the 'Download' button.
-3. The images will be saved to the specified path.
-
-
-## Contributing
-Contributions to the Template Image Downloader are welcome. Please follow the standard pull request process: fork the project, create a feature branch, commit your enhancements or fixes, and submit a pull request for review.
-
-## License
-This project is licensed under the [MIT License](LICENSE.txt) - see the LICENSE file for details.
-
-## Contact Information
-For help or feedback, please contact [dev.ruben.ruiz@gmail.com](mailto:dev.ruben.ruiz@gmail.com).
-
-
