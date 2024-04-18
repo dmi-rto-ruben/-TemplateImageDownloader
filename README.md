@@ -5,7 +5,7 @@ This C# project is designed to automate the process of downloading images from w
 
 
 ![Alt text](/images/app-image.png)
-![Template Image Downloader UI](images/template-downloader-ui.jpg)
+![Template Image Downloader UI](images/app-image.png)
 
 
 
